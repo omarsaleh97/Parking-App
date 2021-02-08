@@ -1,6 +1,5 @@
 # parking
-
-A new Flutter application.
+A Flutter Application for demonstrating the use of Google Maps and Google Places in Flutter.
 
 ## Getting Started
 
